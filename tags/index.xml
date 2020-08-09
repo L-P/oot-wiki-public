@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on oot.wiki</title><link>https://oot.wiki/tags/</link><description>Recent content in Tags on oot.wiki</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://oot.wiki/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>child-only</title><link>https://oot.wiki/tags/child-only/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://oot.wiki/tags/child-only/</guid><description/></item><item><title>dungeon</title><link>https://oot.wiki/tags/dungeon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://oot.wiki/tags/dungeon/</guid><description/></item><item><title>glitch</title><link>https://oot.wiki/tags/glitch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://oot.wiki/tags/glitch/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on oot.wiki</title>
+    <link>https://oot.wiki/tags/</link>
+    <description>Recent content in Tags on oot.wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://oot.wiki/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>child-only</title>
+      <link>https://oot.wiki/tags/child-only/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oot.wiki/tags/child-only/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dungeon</title>
+      <link>https://oot.wiki/tags/dungeon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oot.wiki/tags/dungeon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glitch</title>
+      <link>https://oot.wiki/tags/glitch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oot.wiki/tags/glitch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
