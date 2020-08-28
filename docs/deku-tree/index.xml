@@ -1,31 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Deku Tree on oot.wiki</title>
-    <link>https://oot.wiki/docs/deku-tree/</link>
-    <description>Recent content in Deku Tree on oot.wiki</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://oot.wiki/docs/deku-tree/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>B1 Skip</title>
-      <link>https://oot.wiki/docs/deku-tree/b1-skip/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://oot.wiki/docs/deku-tree/b1-skip/</guid>
-      <description>TODO describe B1 skip.</description>
-    </item>
-    
-    <item>
-      <title>Gohma</title>
-      <link>https://oot.wiki/docs/deku-tree/gohma/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://oot.wiki/docs/deku-tree/gohma/</guid>
-      <description>TODO describe Gohma fast cycle.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deku Tree on oot.wiki</title><link>https://oot.wiki/docs/deku-tree/</link><description>Recent content in Deku Tree on oot.wiki</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://oot.wiki/docs/deku-tree/index.xml" rel="self" type="application/rss+xml"/><item><title>B1 Skip</title><link>https://oot.wiki/docs/deku-tree/b1-skip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://oot.wiki/docs/deku-tree/b1-skip/</guid><description>B1 Skip # Description # A B1 Skip is any way to reach the higher platform in the basement of the Deku Tree starting from the water as child.
+Applications # This skips four rooms in B1 including a Slingshot-locked room, allowing the player to reach Gohma without having the Slingshot.
+This trick is considered essential in randomizers as it skips an item requirement and saves a few minutes of going through empty rooms (except for one Gold Skulltula).</description></item><item><title>Gohma One Cycle</title><link>https://oot.wiki/docs/deku-tree/gohma/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://oot.wiki/docs/deku-tree/gohma/</guid><description>Gohma One Cycle # Description # This one-cycle allows you to defeat Gohma in under five seconds.
+Setup # This setup requires two Deku Sticks one of which will be consumed, and one Deku Nut.
+After getting through the door, perform the Broken Deku Stick glitch on a wall. After Gohma drops to the floor, go closer to it and throw a Deku Nut with your C-Buttons Power Crouch Stab once While the animation of the previous attach is still playing, start spamming your C-Buttons to throw another Deku Nut.</description></item></channel></rss>
