@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dodongo&#39;s Cavern on oot.wiki</title>
+    <link>https://oot.wiki/docs/dodongos-cavern/</link>
+    <description>Recent content in Dodongo&#39;s Cavern on oot.wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://oot.wiki/docs/dodongos-cavern/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Light Eyes with Chus</title>
+      <link>https://oot.wiki/docs/dodongos-cavern/light-eyes-with-chus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oot.wiki/docs/dodongos-cavern/light-eyes-with-chus/</guid>
+      <description>Light eyes with chus Description To progress deeper into the dungeon and fight King Dodongo, lighting the eyes in the main room is required and is intended to be done from the top floor using bombs.
+This trick allow using chus from the ground floor bypassing the entire dungeon.
+Applications This strat is useful when no bomb bag has been found or if you are doing the dungeon in go mode and thus have no need to open chests.</description>
+    </item>
+    
+  </channel>
+</rss>

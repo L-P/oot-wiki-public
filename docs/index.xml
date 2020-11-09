@@ -1,6 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on oot.wiki</title><link>https://oot.wiki/docs/</link><description>Recent content in Docs on oot.wiki</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://oot.wiki/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Broken Deku Stick</title><link>https://oot.wiki/docs/generic/broken-deku-stick/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://oot.wiki/docs/generic/broken-deku-stick/</guid><description>Broken Deku Stick # Description # Broken Deku Stick is a glitch that allows using a broken Deku Stick after breaking it, meaning you can indefinitely and rapidly output Master Sword level damage as child without ever having to obtain the Kokiri Sword.
-The glitch occurs when a Deku Stick hits two times in a single jump-slash and will stay activated until the item in Link&amp;rsquo;s hand is replaced or a Scene transition occurs.</description></item><item><title>External resources</title><link>https://oot.wiki/docs/resources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://oot.wiki/docs/resources/</guid><description>External resources # OoT Interactive Map OoT Speedrunning Discord OoTR Ladder ZeldaSpeedRuns</description></item><item><title>Ground Jump</title><link>https://oot.wiki/docs/generic/ground-jump/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://oot.wiki/docs/generic/ground-jump/</guid><description>Ground Jump # Description # Ground Jumping is a technique that allows jumping vertically to climb up walls you&amp;rsquo;re not supposed to be able to climb normally.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on oot.wiki</title>
+    <link>https://oot.wiki/docs/</link>
+    <description>Recent content in Docs on oot.wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://oot.wiki/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Broken Deku Stick</title>
+      <link>https://oot.wiki/docs/generic/broken-deku-stick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oot.wiki/docs/generic/broken-deku-stick/</guid>
+      <description>Broken Deku Stick    Description Broken Deku Stick is a glitch that allows using a broken Deku Stick after breaking it, meaning you can indefinitely and rapidly output Master Sword level damage as child without ever having to obtain the Kokiri Sword.
+The glitch occurs when a Deku Stick hits two times in a single jump-slash and will stay activated until the item in Link&amp;rsquo;s hand is replaced or a Scene transition occurs.</description>
+    </item>
+    
+    <item>
+      <title>External resources</title>
+      <link>https://oot.wiki/docs/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oot.wiki/docs/resources/</guid>
+      <description>External resources  OoT Interactive Map OoT Speedrunning Discord OoTR Ladder ZeldaSpeedRuns  </description>
+    </item>
+    
+    <item>
+      <title>Ground Jump</title>
+      <link>https://oot.wiki/docs/generic/ground-jump/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oot.wiki/docs/generic/ground-jump/</guid>
+      <description>Ground Jump    Description Ground Jumping is a technique that allows jumping vertically to climb up walls you&amp;rsquo;re not supposed to be able to climb normally.
 The glitch can be stored provided you don&amp;rsquo;t perform any kind of jump before using it.
-Applications # This glitch has many applications all over the game, it can allow adult Link to skip part of the Sacred Forest Meadow, child link to perform a B1 Skip, and many more.</description></item><item><title>Movement</title><link>https://oot.wiki/docs/generic/movement/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://oot.wiki/docs/generic/movement/</guid><description>As child # Walk / roll / backwalk / sidehop timings.
-As adult # Walk / roll / backwalk / sidehop timings.</description></item><item><title>Power Crouch Stab</title><link>https://oot.wiki/docs/generic/power-crouch-stab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://oot.wiki/docs/generic/power-crouch-stab/</guid><description>Power Crouch Stab # Description # A Power Crouch Stab is an effortless glitch that allows to rapidly output specific damage amounts and types depending on which object and which attack were performed last on the same scene.
-When a scene transitions occurs, the damage is reset to 1. If you were to perform the glitch right after a scene transition it would take 4 hits of the Biggoron Sword to kill a Blue Tektite.</description></item></channel></rss>
+Applications This glitch has many applications all over the game, it can allow adult Link to skip part of the Sacred Forest Meadow, child link to perform a B1 Skip, and many more.</description>
+    </item>
+    
+    <item>
+      <title>Movement</title>
+      <link>https://oot.wiki/docs/generic/movement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oot.wiki/docs/generic/movement/</guid>
+      <description>As child Walk / roll / backwalk / sidehop timings.
+As adult Walk / roll / backwalk / sidehop timings.</description>
+    </item>
+    
+    <item>
+      <title>Power Crouch Stab</title>
+      <link>https://oot.wiki/docs/generic/power-crouch-stab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oot.wiki/docs/generic/power-crouch-stab/</guid>
+      <description>Power Crouch Stab    Description A Power Crouch Stab is an effortless glitch that allows to rapidly output specific damage amounts and types depending on which object and which attack were performed last on the same scene.
+When a scene transitions occurs, the damage is reset to 1. If you were to perform the glitch right after a scene transition it would take 4 hits of the Biggoron Sword to kill a Blue Tektite.</description>
+    </item>
+    
+  </channel>
+</rss>
